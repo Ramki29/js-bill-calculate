@@ -1,0 +1,89 @@
+*
+	{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+	
+.bill-sec
+	{
+	padding:50px;
+	}
+	
+.bill-container
+	{
+	width:50%;
+	margin:0 auto;
+	box-shadow: 5px 5px 10px #be9ef5;
+	padding:20px;
+	}
+	
+.bill-title h2
+	{
+	text-align:center;
+	padding:20px;
+	font-size:30px;
+	font-weight:500;
+	}
+	
+.title
+	{
+	display:flex;
+	margin:20px 0;
+	
+	}
+	
+.name
+	{
+	font-size:20px;
+	font-weight:700;
+	margin-right:35%;
+	padding-left:5px;
+	}
+	
+.timing
+	{
+	font-size:20px;
+	font-weight:700;
+	}
+	
+.bill-row
+	{
+	text-align:center;
+	}
+
+label
+	{
+	color:#222;
+	margin-left:20%;
+	font-size:18px;
+	float:left;
+	}
+	
+.bill
+	{
+	margin-bottom:20px;
+	}
+	
+input
+	{
+	padding:5px;
+	}
+	
+#tip
+	{
+	margin-right:20px;
+	}
+	
+.final-col h3
+	{
+	font-size:30px;
+	font-weight:500;
+	padding:20px;
+	}
+	
+.bill p	
+	{
+	font-size:20px;
+	font-weight:500;
+	}
